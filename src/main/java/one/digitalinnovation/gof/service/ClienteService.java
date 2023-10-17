@@ -6,9 +6,9 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import one.digitalinnovation.gof.model.Cliente;
-import one.digitalinnovation.gof.Reposutory.ClienteRepository;
+import one.digitalinnovation.gof.Repository.ClienteRepository;
 import one.digitalinnovation.gof.model.Endereco;
-import one.digitalinnovation.gof.Reposutory.EnderecoRepository;
+import one.digitalinnovation.gof.Repository.EnderecoRepository;
 import one.digitalinnovation.gof.serviceInterface.ViaCepService;
 
 /**

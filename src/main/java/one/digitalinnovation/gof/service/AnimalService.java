@@ -1,6 +1,6 @@
 package one.digitalinnovation.gof.service;
 
-import one.digitalinnovation.gof.Reposutory.AnimalRepository;
+import one.digitalinnovation.gof.Repository.AnimalRepository;
 import one.digitalinnovation.gof.model.Animal;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

@@ -1,4 +1,4 @@
-package one.digitalinnovation.gof.Reposutory;
+package one.digitalinnovation.gof.Repository;
 
 import one.digitalinnovation.gof.model.Cliente;
 import org.springframework.data.repository.CrudRepository;
