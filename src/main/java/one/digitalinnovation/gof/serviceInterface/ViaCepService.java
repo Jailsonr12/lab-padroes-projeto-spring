@@ -1,4 +1,4 @@
-package one.digitalinnovation.gof.service;
+package one.digitalinnovation.gof.serviceInterface;
 
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.web.bind.annotation.GetMapping;
